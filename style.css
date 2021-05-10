@@ -89,6 +89,9 @@ img {
         width: 100%;
         float: left;
     }
+    .row {
+        margin-top: 0;
+    }
     #lezioni .row,
     #why .row {
         background: #f2f2cd;
@@ -101,5 +104,16 @@ img {
     }
     .container.grey {
         background-color: #fff;
+    }
+    h1 {
+        font-size: 50px;
+        margin: 0;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    .row div {
+        font-size: 25px;
+        margin-bottom: 25px;
     }
 }
